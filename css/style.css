@@ -413,7 +413,9 @@ animation-delay: .8s;
   background: #000;
 }
 .banner h1,.banner h6,.banner .project-button {
-  color:#fff;
+  color:#d73e4d;
+
+  text-shadow: -1px -1px 0 #d73e4d, 1px -1px 0 #d73e4d, -1px 1px 0 #d73e4d, 1px 1px 0 #d73e4d;
 }
 .banner h6 {
   font-weight: 500;
@@ -1620,4 +1622,8 @@ footer p {
 }
 .blog-details-post-wrapper .post-comment form button:hover {
   background:#fff;
+}
+
+.texto-centro{
+  text-align: center;
 }
