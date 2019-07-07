@@ -1,11 +1,7 @@
 /* CSS Document */
 
 /*
-    Created on : 1/15/2017.
-    Theme Name : BizPro.
-    Description: BizPro- Responsive html5 template.
-    Version    : 1.1.
-    Author     : @SRThemes.
+
 
 */
 
@@ -413,12 +409,13 @@ animation-delay: .8s;
   background: #000;
 }
 .banner h1,.banner h6,.banner .project-button {
-  color:#d73e4d;
+  color:#000000;
 
-  text-shadow: -1px -1px 0 #d73e4d, 1px -1px 0 #d73e4d, -1px 1px 0 #d73e4d, 1px 1px 0 #d73e4d;
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
 }
 .banner h6 {
-  font-weight: 500;
+  font-weight: 700;
+  font-size: 25px;
 }
 .banner .project-button {
   width: 170px;
