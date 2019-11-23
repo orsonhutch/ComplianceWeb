@@ -5,7 +5,7 @@ function goMap () {
   if ($('#map').length) {
         // Styles a map in night mode.
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 40.925372, lng: -74.276544},
+          center: {lat: 19.38198, lng: -99.230579},
           zoom: 12,
           scrollwheel: false,
           styles: [ {
@@ -179,7 +179,7 @@ function goMap () {
 		// To add the marker to the map 
 		  var image = 'images/logo/map.png';
 		  var beachMarker = new google.maps.Marker({
-		    position: {lat: 40.925372, lng: -74.276544},
+		    position: {lat: 19.38198, lng: -99.23057},
 		    map: map,
 		    icon: image,
 		    title:"BipPro Office!",
@@ -198,3 +198,9 @@ jQuery(document).on('ready', function () {
 		goMap()
 	})(jQuery);
 });
+
+
+
+
+
+
