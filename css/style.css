@@ -174,7 +174,7 @@ animation-delay: .8s;
   overflow-x:hidden;
 }
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
- h1,h2,h3,h4,h5,h6 {color:#275cc9; text-transform: uppercase;font-weight: 700;}
+ h1,h2,h3,h4,h5,h6 {color:#000000; text-transform: uppercase;font-weight: 700;}
  h1 {font-size: 48px;}
  h2 {font-size: 36px;}
  h3 {font-size: 28px;}
