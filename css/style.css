@@ -268,7 +268,7 @@ animation-delay: .8s;
 #skill-section .codeconSkillbar .skillBar,#our-client .owl-theme .owl-dots .owl-dot.active span,
 #our-client .owl-theme .owl-dots .owl-dot:hover span,
 .blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
-  background: #d73e4d;
+  background: #000000;
 }
 .banner .project-button,#about-us .icon,#about-us .single-about-content a.more,
 #service-section .single-service-content:hover,#project-section .project-menu ul li.active,
@@ -278,7 +278,7 @@ animation-delay: .8s;
 #contact-section .contact-address-content .left-side ul li .icon,#contact-section .send-message form button,
 .sidebar-tags ul li a:hover,.blog-details-post-wrapper .post-comment form button,
 .blog-details-post-wrapper .post-comment textarea:focus,.blog-details-post-wrapper .post-comment input:focus {
-  border-color:#d73e4d;
+  border-color:#000000;
   border-style: solid;
 }
 /***
